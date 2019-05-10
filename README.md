@@ -16,7 +16,7 @@ module.exports = {
     MongoURI: process.env.MongoURI
 }
 ```
-to : 
+by : 
 ```javascript
 module.exports = {
     MongoURI: <YouClusterMongoDBUri>
