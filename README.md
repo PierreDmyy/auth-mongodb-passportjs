@@ -1,5 +1,5 @@
 # AUTH-MONGO
-Simple authentication with node JS and mongodb
+Simple authentication with NODE JS / MONGODB / PASSPORT JS
 
 ## Installation
 
